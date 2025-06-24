@@ -56,7 +56,7 @@ export class UserService {
   }
   
   async updateDocument(id: number, file: Express.Multer.File): Promise<string> {
-    await this.deleteDocument(id); // delete old file if exists
+    await this.deleteDocument(id);
     return this.uploadDocument(id, file);
   }
 }
