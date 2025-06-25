@@ -130,5 +130,5 @@ src/
 
 ## Let's Connect
 
-- 💼 [LinkedIn – Mahad](https://linkedin.com/in/mahad-dev)
-- 📧 Feel free to raise issues or contribute!
+- [LinkedIn – Mahad](https://linkedin.com/in/mahad-dev)
+- Feel free to raise issues or contribute!
